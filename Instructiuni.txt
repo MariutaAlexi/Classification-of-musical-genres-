@@ -1,0 +1,11 @@
+Pentru a se rula acest cod trebuie parcursi urmatorii pasi:
+
+- Trebuie sa se foloseasca un editor de cod compatibil cu limbajul de programare
+- Se incarca codul in editorul folosit
+- Se verifica daca acel editor are toate bibliotecile si functiile disponibile
+- Se descarca baza de date 
+- Se incarca baza de date
+- Se descarca sau se inregistreaza o voce 
+- Se incarca inregistrarea sub forma unui fisier wav
+- Daca aveti o inregisrare mp3, este necesara o conversie intr-un fisier wav 
+
